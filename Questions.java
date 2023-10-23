@@ -1,4 +1,4 @@
-package QuizFile;
+
 import java.util.Scanner;
 
 public class Questions implements Runnable {
